@@ -1,5 +1,7 @@
 # MadHatter
 
+Pog he's in.
+
 GOAL
 
   Use machine learning to take a person's characteristics (face, hairstyle, personality) to recommend the ideal hat for them to wear.
